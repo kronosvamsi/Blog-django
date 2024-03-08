@@ -1,4 +1,4 @@
 [build] 
 
-command = "python manage.py collectstatic --noinput"publish="/home/dashboard/BlogApp/static"
+command = "python manage.py collectstatic --noinput"   publish="/home/dashboard/BlogApp/static"
 
