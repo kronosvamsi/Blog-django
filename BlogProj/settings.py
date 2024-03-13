@@ -80,7 +80,9 @@ DATABASES = {
 
  'default': dj_database_url.config(
         # Replace this value with your local database's connection string.
-        default='postgresql://postgres:deepeigen11**@localhost:5432/BlogServer',
+        default='postgresql://krishna:4EcmADnKGxlLv4zFeU3GlKE0mnelaNzR@dpg-cnor4s0l6cac739au7n0-a:5432/postgres_db_2vsj'
+
+,
         conn_max_age=600
     )
 }
